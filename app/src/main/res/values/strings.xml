@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CardView</string>
+    <string name="btn1">"أدعية اسلامية "</string>
+    <string name="btn3">المزيد</string>
+    <string name="btn2">الاذكار وتسابيح</string>
+    <string name="btn4">التسبيحة الإلكترونية </string>
+</resources>
